@@ -1,5 +1,5 @@
 # NCAAT-Analysis
-Analysis of the NCAA men's basketball tournament data <br>
+Analysis of the NCAA men's basketball tournament data from 1985 to 2019<br>
 
 ### Tournament-Stats.ipynb
 In this notebook I take a look at treds related to tournament seeding. I am particularly interested in spotting upsets based on seeding. Some questions I'm interested in answering are:
